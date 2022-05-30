@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\maya3\Desktop\Digital Design I\DDI - Project I (K-Maps)\main.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maya3\Desktop\Digital Design I\DDI - Project I (K-Maps)\main.cpp(26,21): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\maya3\Desktop\Digital Design I\DDI - Project I (K-Maps)\Debug\DDI - Project I (K-Maps).exe not found or not built by the last incremental link; performing full link
+  DDI - Project I (K-Maps).vcxproj -> C:\Users\maya3\Desktop\Digital Design I\DDI - Project I (K-Maps)\Debug\DDI - Project I (K-Maps).exe
